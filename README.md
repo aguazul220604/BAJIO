@@ -70,13 +70,30 @@
     aligned with client requirements for proper compliance.
   </p>
   <div>
-    <span class="tag">PHP</span>
-    <span class="tag">Laravel</span>
-    <span class="tag">MySQL</span>
-    <span class="tag">HTML5</span>
-    <span class="tag">CSS3</span>
-    <span class="tag">JavaScript</span>
-    <span class="tag">REST API</span>
+  <p align="center">
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-8.2-blue?logo=php&logoColor=white" alt="PHP">
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/badge/Laravel-10-red?logo=laravel&logoColor=white" alt="Laravel">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/REST%20API-008080?logo=rest-api&logoColor=white" alt="REST API">
+  </a>
+</p>
+
   </div>
 </section>
 
