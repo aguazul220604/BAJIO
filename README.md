@@ -1,3 +1,100 @@
+<h1>Department Management System - CFE Bajío Division</h1>
+
+<section>
+  <h2>🎯 General Description</h2>
+  <p>
+    This system was developed for the <strong>Distribution Sub-management</strong> of the 
+    <strong>Federal Electricity Commission (CFE) Bajío Division</strong>.  
+    Its purpose is to centralize and organize departmental information, allowing both user access 
+    to consult the data and internal management by administrators.
+  </p>
+</section>
+
+<section>
+  <h2>🧭 Role and Methodology</h2>
+  <p>
+    I developed and coordinated the project, defining the structure of the modules and functionalities, 
+    while ensuring proper management of internal information.  
+    Best development practices and version control were applied to guarantee quality and security.
+  </p>
+</section>
+
+<section>
+  <h2>🧩 System Sections</h2>
+
+  <h3>👥 User</h3>
+  <p>
+    The user section allows consultation of information published by the administrative side.  
+    It includes:
+  </p>
+  <ul>
+    <li>Organizational charts, links, and telephone extensions for each department.</li>
+    <li>Duty schedules.</li>
+    <li>Single-line diagram consultation.</li>
+    <li>Departmental news and updates.</li>
+  </ul>
+  <div class="img-placeholder">
+    <img src="assets/img1.png" alt="">
+    <img src="assets/img2.png" alt="">
+    <img src="assets/img3.png" alt="">
+    <img src="assets/img4.png" alt="">
+    <img src="assets/img5.png" alt="">
+    <img src="assets/img6.png" alt="">
+    <img src="assets/img7.png" alt="">
+  </div>
+
+  <h3>🛠️ Administrator</h3>
+  <p>
+    The administrative section allows management of all internal system information.  
+    Main functionalities:
+  </p>
+  <ul>
+    <li>Create and edit departments.</li>
+    <li>Modify departmental information.</li>
+    <li>Upload files related to single-line diagrams, schedules, and news updates.</li>
+  </ul>
+  <div class="img-placeholder">
+    <img src="assets/img9.png" alt="">
+    <img src="assets/img10.png" alt="">
+    <img src="assets/img11.png" alt="">
+    <img src="assets/img12.png" alt="">
+    <img src="assets/img13.png" alt="">
+  </div>
+</section>
+
+<section>
+  <h2>⚙️ Technologies Used</h2>
+  <p>
+    The system was developed using modern web technologies to ensure scalability and ease of maintenance.  
+    Special attention was given to building robust REST APIs and implementing a concrete business logic 
+    aligned with client requirements for proper compliance.
+  </p>
+  <div>
+    <span class="tag">PHP</span>
+    <span class="tag">Laravel</span>
+    <span class="tag">MySQL</span>
+    <span class="tag">HTML5</span>
+    <span class="tag">CSS3</span>
+    <span class="tag">JavaScript</span>
+    <span class="tag">REST API</span>
+  </div>
+</section>
+
+<section>
+  <h2>🚀 System Objective</h2>
+  <p>
+    To centralize and organize departmental information, facilitating user consultation and enabling 
+    efficient management by administrators, improving communication and data availability within 
+    the CFE Bajío Division.
+  </p>
+</section>
+
+<footer>
+  <p>Developed for the <strong>Distribution Sub-management, CFE Bajío Division</strong></p>
+  <p>Project leadership and development: <strong>Ángel García Aguazul</strong></p>
+</footer>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
